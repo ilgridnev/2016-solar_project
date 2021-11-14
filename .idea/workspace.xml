@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4024efb8-cd0d-41cd-8e8e-58188bd650af" name="Changes" comment="Сделал поправки к функциям модулей solar_model.py и solar_input.py">
       <change beforePath="$PROJECT_DIR$/solar_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/solar_main.py" afterDir="false" />
+=======
+    <list default="true" id="26ca1558-61e5-48c6-9cf3-475ae199edf8" name="Changes" comment=")">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +23,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="20fhdi8I3hbtoXrQOmiG0o2narl" />
+=======
+  <component name="ProjectId" id="20fg0Pg2AsdjBDqkp6UEkAIGpS9" />
+>>>>>>> origin/master
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +43,11 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+<<<<<<< HEAD
       <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\pythonProject\venv\Scripts\python.exe" />
+=======
+      <option name="SDK_HOME" value="C:\Users\Илья\AppData\Local\Programs\Python\Python39\python.exe" />
+>>>>>>> origin/master
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -58,6 +71,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="4024efb8-cd0d-41cd-8e8e-58188bd650af" name="Changes" comment="" />
       <created>1636441638479</created>
       <option name="number" value="Default" />
@@ -79,6 +93,22 @@
       <updated>1636835297015</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+      <changelist id="26ca1558-61e5-48c6-9cf3-475ae199edf8" name="Changes" comment="" />
+      <created>1636440832766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636440832766</updated>
+    </task>
+    <task id="LOCAL-00001" summary=")">
+      <created>1636442055220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636442055220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,8 +124,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+<<<<<<< HEAD
     <MESSAGE value="))" />
     <MESSAGE value="Сделал поправки к функциям модулей solar_model.py и solar_input.py" />
     <option name="LAST_COMMIT_MESSAGE" value="Сделал поправки к функциям модулей solar_model.py и solar_input.py" />
+=======
+    <MESSAGE value=")" />
+    <option name="LAST_COMMIT_MESSAGE" value=")" />
+>>>>>>> origin/master
   </component>
 </project>

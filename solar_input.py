@@ -69,7 +69,7 @@ def parse_planet_parameters(line, planet):
     **line** — строка с описание планеты.
     **planet** — объект планеты.
     """
-    line = line.split("")
+    line = line.split(" ")
     planet.R = line[1]
     planet.color = line[2]
     planet.m = line[3]
