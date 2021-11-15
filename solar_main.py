@@ -75,6 +75,11 @@ def open_file_dialog():
     global space_objects
     global perform_execution
     perform_execution = False
+    time_step.set(1)
+    physical_time = 0
+    displayed_time.set("0 seconds gone")
+    start_button['text'] = "Start"
+    start_button['command'] = start_execution
     for obj in space_objects:
         space.delete(obj.image)  # удаление старых изображений планет
     in_filename = askopenfilename(filetypes=(("Text file", ".txt"),))
@@ -96,6 +101,9 @@ def save_file_dialog():
     функцию считывания параметров системы небесных тел из данного файла.
     Считанные объекты сохраняются в глобальный список space_objects
     """
+    perform_execution = False
+    start_button['text'] = "Start"
+    start_button['command'] = start_execution
     out_filename = asksaveasfilename(filetypes=(("Text file", ".txt"),))
     write_space_objects_data_to_file(out_filename, space_objects)
 
